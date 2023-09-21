@@ -1,4 +1,4 @@
 ---
-title: "Welcome-to-Tech-Insights"
-date: 2023-09-21
+title:"Welcome-to-Tech-Insights"
+date:2023-09-21
 ---
