@@ -1,5 +1,5 @@
 ---
-title: "Welcome-to-Tech-Insights-by-Archana-P-V"
+title: "Welcome-to-Tech-Insights"
 date: 2023-09-21
 ---
 Unlocking the World of Technology, One Byte at a Time
